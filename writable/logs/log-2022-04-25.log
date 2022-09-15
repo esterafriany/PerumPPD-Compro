@@ -1,0 +1,35 @@
+CRITICAL - 2022-04-25 02:30:07 --> Some message goes here
+#0 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(802): App\Controllers\Admin\FaqController->onAddFaq()
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FaqController))
+#2 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\perum_ppd\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\perum_ppd\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-25 02:30:08 --> Some message goes here
+#0 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(802): App\Controllers\Admin\FaqController->onAddFaq()
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FaqController))
+#2 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\perum_ppd\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\perum_ppd\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-25 02:32:00 --> Some message goes here
+#0 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(802): App\Controllers\Admin\FaqController->onAddFaq()
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FaqController))
+#2 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\perum_ppd\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\perum_ppd\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-25 02:33:16 --> Some message goes here
+#0 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(802): App\Controllers\Admin\FaqController->onAddFaq()
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FaqController))
+#2 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\perum_ppd\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\perum_ppd\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-25 02:37:10 --> Some message goes here
+#0 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(802): App\Controllers\Admin\FaqController->onAddFaq()
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FaqController))
+#2 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\perum_ppd\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\perum_ppd\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}

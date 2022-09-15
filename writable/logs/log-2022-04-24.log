@@ -1,0 +1,48 @@
+CRITICAL - 2022-04-24 23:21:38 --> Undefined property: App\Controllers\Admin\FaqController::$CouponModel
+#0 C:\xampp\htdocs\perum_ppd\app\Controllers\Admin\FaqController.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(802): App\Controllers\Admin\FaqController->getFaqs()
+#2 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FaqController))
+#3 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perum_ppd\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perum_ppd\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-24 23:22:25 --> Undefined property: App\Controllers\Admin\FaqController::$CouponModel
+#0 C:\xampp\htdocs\perum_ppd\app\Controllers\Admin\FaqController.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(802): App\Controllers\Admin\FaqController->getFaqs()
+#2 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FaqController))
+#3 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perum_ppd\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perum_ppd\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-24 23:26:02 --> Undefined property: App\Controllers\Admin\FaqController::$CouponModel
+#0 C:\xampp\htdocs\perum_ppd\app\Controllers\Admin\FaqController.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(802): App\Controllers\Admin\FaqController->getFaqs()
+#2 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FaqController))
+#3 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perum_ppd\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perum_ppd\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-24 23:26:22 --> Undefined property: App\Controllers\Admin\FaqController::$CouponModel
+#0 C:\xampp\htdocs\perum_ppd\app\Controllers\Admin\FaqController.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(802): App\Controllers\Admin\FaqController->getFaqs()
+#2 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FaqController))
+#3 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perum_ppd\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perum_ppd\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-24 23:26:30 --> Undefined array key "data"
+#0 C:\xampp\htdocs\perum_ppd\app\Controllers\Admin\FaqController.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 30)
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(802): App\Controllers\Admin\FaqController->getFaqs()
+#2 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FaqController))
+#3 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perum_ppd\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perum_ppd\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-24 23:27:42 --> Undefined property: App\Controllers\Admin\FaqController::$CouponModel
+#0 C:\xampp\htdocs\perum_ppd\app\Controllers\Admin\FaqController.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(802): App\Controllers\Admin\FaqController->getFaqs()
+#2 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FaqController))
+#3 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perum_ppd\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perum_ppd\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

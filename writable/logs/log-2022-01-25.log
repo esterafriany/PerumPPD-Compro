@@ -1,0 +1,9 @@
+CRITICAL - 2022-01-25 02:11:02 --> Invalid file: ppid/prosedur.php
+#0 C:\xampp\htdocs\perum_ppd\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ppid/prosedur.p...')
+#1 C:\xampp\htdocs\perum_ppd\system\Common.php(1092): CodeIgniter\View\View->render('ppid/prosedur', Array, true)
+#2 C:\xampp\htdocs\perum_ppd\app\Controllers\Ppid.php(38): view('ppid/prosedur')
+#3 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(802): App\Controllers\Ppid->procedure()
+#4 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ppid))
+#5 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\perum_ppd\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

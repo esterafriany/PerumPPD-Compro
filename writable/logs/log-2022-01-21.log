@@ -1,0 +1,30 @@
+CRITICAL - 2022-01-21 14:14:05 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\perum_ppd\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\perum_ppd\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-21 14:14:09 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\perum_ppd\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\perum_ppd\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-21 14:15:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\perum_ppd\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\perum_ppd\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-21 14:15:57 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\perum_ppd\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\perum_ppd\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-21 14:15:59 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\perum_ppd\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\perum_ppd\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\perum_ppd\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
